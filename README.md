@@ -1,44 +1,37 @@
-<H1 align="center">Nia's Bootcamp of Data Technichian Portfolio</H1>
-<H2>Week Two - Tableau Visualisation tool</H2>
+<H1 align="center">Nia's Data Technichian Bootcamp Portfolio</H1>
+<H2>Week Two - Tableau Visualisation Tool</H2>
 <h3>Project Overview</h3>
-<p>I used this visual analytival tool to create beautiful and effective visuals. It was fairly straith forward easy tose tool.</p>
+<p>During this project, I explored Tableau, a business intelligence and data visualisation tool used to transform raw data into interactive and meaningful dashboards. I worked with datasets to create clear visualisations that communicate trends and insights, making complex information easier to understand.</p>
 <h3>Objective</h3>
-<p>To learn how to clean, organise, analyse and present data using Microsoft Excel, while developing an understanding of how different charts and PivotTables can communicate insights effectively.</p>
+<p>To develop practical skills in using Tableau to connect to datasets, create interactive visualisations and present data in a way that supports informed decision-making.</p>
+<H3>Skills Demonstrated</H3>
+<li>Importing and connecting datasets</li>
+<li>Creating different types of charts and graphs</li></li>
+<li>Building interactive dashboards</li>
+<li>Applying filters and sorting data</li>
+<li>Choosing appropriate visualisations for different types of data</li>
+<h3>Project: Life Expectancy Analysis</h3>
+<p>One of the projects I completed analysed life expectancy using Tableau. The dashboard allowed the data to be explored by age and gender, making it easy to compare trends and identify differences between groups.
 
-<h3>Excel Functions that I used:</h3>
-<li>SUM()</li>
-<li>AVERAGE()</li>
-<li>COUNT()</li>
-<li>MAX()</li>
-<li>MIN()</li>
-<li>IF()</li>
-<li>COUNTIF()</li>
-<li>VLOOKUP() & XLOOKUP()</li>
+Through this project, I learned how effective visualisation can transform large datasets into information that is easy to interpret and communicate.</p>
 
-<h4>Some examples of the functions that I used?</h4>
-<td><img src="./Screenshot (701).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (702).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (705).png"/></td>
-<h1></h1>
-<td><img src="./Screenshot (706).png"/></td>
-<h1></h1>
-
-<H3>Charts and visualisations created:</H3>
-<li>Bar Chart</li>
-<li>Line Graph</li>
-<li>Pie Chart</li>
-<li>Scatter Plots</li>
-<li>Histogram</li>
-<li>Heath Map</li>
 <h4>Few examples of my visualisations with excel:</h4>
-
-<td><img src="./Screenshot (707).png"/></td>
+<td><img src="./Screenshot (710).png"/></td>
 <h1></h1>
-<td><img src="./Screenshot (708).png"/></td>
+<table>
+  <tr>
+    <td><img src="./Screenshot (711).png" width="450"/></td>
+    <td><img src="./Screenshot (712).png" width="450"/></td>
+  </tr>
+</table>
 <h1></h1>
-<td><img src="./Screenshot (709).png"/></td>
+<td><img src="./Screenshot (713).png"/></td>
+<h1></h1>
+<td><img src="./Screenshot (714).png"/></td>
+<h1></h1>
+<td><img src="./Screenshot (717).png"/></td>
 <h1></h1>
 <h3>What I learned</h3>
-<p>I learned by using this tool to quicly visualise big data sets.</p>
+<p>This project strengthened my understanding of how data visualisation can help people explore and understand information more effectively. I learned how to create interactive dashboards, select suitable chart types and organise data so that important patterns and trends are easy to identify.
+
+Working with Tableau also showed me the importance of designing visualisations that are both informative and easy to use. I particularly enjoyed creating the life expectancy dashboard and seeing how interactive charts can help tell a story through data..</p>
